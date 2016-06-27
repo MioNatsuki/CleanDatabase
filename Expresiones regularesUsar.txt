@@ -1,0 +1,15 @@
+class:<=50K|>50K
+age:([-]{0,1})([0-9]{1,})([.]{0,1})([0-9]{0,})
+workclass:State-gov|Self-emp-not-inc|Private|Federal-gov|Self-emp-inc|Local-gov|Never-worked|Without-pay
+fnlwgt:([-]{0,1})([0-9]{1,})([.]{0,1})([0-9]{0,})
+education:Bachelors|HS-grad|Masters|Some-college|Assoc-acdm|Assoc-voc|Doctorate|Prof-school|Preschool|9th|7th-8th|1st-4th|10th|12th|11th|5th-6th
+education-num:([-]{0,1})([0-9]{1,})([.]{0,1})([0-9]{0,})
+marital-status:Never-married|Married-civ-spouse|Divorced|Separated|Widowed|Married-AF-spouse|absent
+occupation:Adm-clerical|Exec-managerial|Handlers|cleaners|Prof-specialty|Other-service|Sales|Craft-repair|Transport-moving|Farming-fishing|Machine-op-inspct|Tech-support|Protective-serv
+race:White|Black|Asian-Pac-Islander|Amer-Indian-Eskimo|Other
+sex:Male|Female
+capital-gain:([-]{0,1})([0-9]{1,})([.]{0,1})([0-9]{0,})
+capital-loss:([-]{0,1})([0-9]{1,})([.]{0,1})([0-9]{0,})
+hours-per-week:([-]{0,1})([0-9]{1,})([.]{0,1})([0-9]{0,})
+native-country:United-States|Cuba|Jamaica|India|Mexico|Puerto-Rico|Honduras|England|Canada|Germany|Iran|Philippines|Italy|Poland|Columbia
+relationship:Not-in-family|Husband|Wife|Own-child|Unmarried|Other-relative

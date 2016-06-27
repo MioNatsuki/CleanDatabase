@@ -1,0 +1,184 @@
+Datos de correlaciones nominales
+native-country y  class Grado de libertad 14 Chi-cuadrada NaN
+
+capital-loss y  class Grado de libertad 16 Chi-cuadrada NaN
+
+capital-loss y  native-country Grado de libertad 224 Chi-cuadrada NaN
+
+sex y  hours-per-week Grado de libertad 34 Chi-cuadrada NaN
+
+race y  capital-loss Grado de libertad 64 Chi-cuadrada NaN
+
+occupation y  native-country Grado de libertad 140 Chi-cuadrada NaN
+
+occupation y  hours-per-week Grado de libertad 340 Chi-cuadrada NaN
+
+occupation y  capital-gain Grado de libertad 140 Chi-cuadrada NaN
+
+marital-status y  native-country Grado de libertad 70 Chi-cuadrada NaN
+
+marital-status y  race Grado de libertad 20 Chi-cuadrada NaN
+
+education-num y  occupation Grado de libertad 150 Chi-cuadrada NaN
+
+education y  occupation Grado de libertad 140 Chi-cuadrada NaN
+
+workclass y  native-country Grado de libertad 70 Chi-cuadrada NaN
+
+workclass y  hours-per-week Grado de libertad 170 Chi-cuadrada NaN
+
+workclass y  capital-gain Grado de libertad 70 Chi-cuadrada NaN
+
+workclass y  education-num Grado de libertad 75 Chi-cuadrada NaN
+
+workclass y  education Grado de libertad 70 Chi-cuadrada NaN
+
+age y  class Grado de libertad 55 Chi-cuadrada NaN
+
+age y  sex Grado de libertad 55 Chi-cuadrada NaN
+
+age y  occupation Grado de libertad 550 Chi-cuadrada NaN
+
+age y  workclass Grado de libertad 275 Chi-cuadrada NaN
+
+education y  education-num Grado de libertad 210 Chi-cuadrada 3309.815185546875
+
+age y  education Grado de libertad 770 Chi-cuadrada 888.7700805664062
+
+age y  native-country Grado de libertad 770 Chi-cuadrada 763.5452270507812
+
+education y  hours-per-week Grado de libertad 476 Chi-cuadrada 530.89208984375
+
+age y  relationship Grado de libertad 275 Chi-cuadrada 399.9637756347656
+
+age y  marital-status Grado de libertad 275 Chi-cuadrada 385.7995300292969
+
+education y  native-country Grado de libertad 196 Chi-cuadrada 323.08447265625
+
+marital-status y  relationship Grado de libertad 25 Chi-cuadrada 308.265380859375
+
+education-num y  native-country Grado de libertad 210 Chi-cuadrada 304.74127197265625
+
+marital-status y  hours-per-week Grado de libertad 170 Chi-cuadrada 231.9352264404297
+
+hours-per-week y  native-country Grado de libertad 476 Chi-cuadrada 212.118896484375
+
+age y  race Grado de libertad 220 Chi-cuadrada 211.5707550048828
+
+education y  capital-loss Grado de libertad 224 Chi-cuadrada 187.8204803466797
+
+relationship y  hours-per-week Grado de libertad 170 Chi-cuadrada 168.62921142578125
+
+education y  capital-gain Grado de libertad 196 Chi-cuadrada 154.29808044433594
+
+race y  hours-per-week Grado de libertad 136 Chi-cuadrada 144.57196044921875
+
+occupation y  capital-loss Grado de libertad 160 Chi-cuadrada 136.03343200683594
+
+race y  native-country Grado de libertad 56 Chi-cuadrada 119.97557067871094
+
+relationship y  sex Grado de libertad 5 Chi-cuadrada 105.89900207519531
+
+workclass y  occupation Grado de libertad 50 Chi-cuadrada 100.84733581542969
+
+relationship y  native-country Grado de libertad 70 Chi-cuadrada 98.13507080078125
+
+education y  relationship Grado de libertad 70 Chi-cuadrada 91.021484375
+
+education-num y  relationship Grado de libertad 75 Chi-cuadrada 86.52433776855469
+
+education-num y  marital-status Grado de libertad 75 Chi-cuadrada 82.42044067382812
+
+education y  marital-status Grado de libertad 70 Chi-cuadrada 78.72347259521484
+
+relationship y  capital-loss Grado de libertad 80 Chi-cuadrada 73.6615982055664
+
+education-num y  race Grado de libertad 60 Chi-cuadrada 68.0578384399414
+
+relationship y  capital-gain Grado de libertad 70 Chi-cuadrada 67.84776306152344
+
+marital-status y  occupation Grado de libertad 50 Chi-cuadrada 59.85966873168945
+
+education y  race Grado de libertad 56 Chi-cuadrada 56.000282287597656
+
+marital-status y  capital-loss Grado de libertad 80 Chi-cuadrada 53.995201110839844
+
+hours-per-week y  class Grado de libertad 34 Chi-cuadrada 49.920814514160156
+
+education-num y  class Grado de libertad 15 Chi-cuadrada 48.60947036743164
+
+education y  class Grado de libertad 14 Chi-cuadrada 47.99024963378906
+
+workclass y  capital-loss Grado de libertad 80 Chi-cuadrada 47.72413635253906
+
+marital-status y  sex Grado de libertad 5 Chi-cuadrada 46.708770751953125
+
+occupation y  race Grado de libertad 40 Chi-cuadrada 46.55342102050781
+
+occupation y  relationship Grado de libertad 50 Chi-cuadrada 45.98844528198242
+
+marital-status y  capital-gain Grado de libertad 70 Chi-cuadrada 45.31966781616211
+
+relationship y  class Grado de libertad 5 Chi-cuadrada 39.53960037231445
+
+relationship y  race Grado de libertad 20 Chi-cuadrada 38.358680725097656
+
+marital-status y  class Grado de libertad 5 Chi-cuadrada 37.317298889160156
+
+occupation y  class Grado de libertad 10 Chi-cuadrada 32.57699203491211
+
+capital-gain y  class Grado de libertad 14 Chi-cuadrada 28.4162654876709
+
+workclass y  relationship Grado de libertad 25 Chi-cuadrada 26.115571975708008
+
+occupation y  sex Grado de libertad 10 Chi-cuadrada 24.103967666625977
+
+workclass y  marital-status Grado de libertad 25 Chi-cuadrada 22.40768051147461
+
+sex y  capital-loss Grado de libertad 16 Chi-cuadrada 17.750885009765625
+
+sex y  capital-gain Grado de libertad 14 Chi-cuadrada 17.440610885620117
+
+sex y  native-country Grado de libertad 14 Chi-cuadrada 17.17291831970215
+
+education y  sex Grado de libertad 14 Chi-cuadrada 15.471427917480469
+
+education-num y  sex Grado de libertad 15 Chi-cuadrada 13.531635284423828
+
+workclass y  class Grado de libertad 5 Chi-cuadrada 13.387896537780762
+
+race y  capital-gain Grado de libertad 56 Chi-cuadrada 13.160447120666504
+
+workclass y  race Grado de libertad 20 Chi-cuadrada 10.575669288635254
+
+race y  sex Grado de libertad 4 Chi-cuadrada 6.916982173919678
+
+sex y  class Grado de libertad 1 Chi-cuadrada 6.721902847290039
+
+race y  class Grado de libertad 4 Chi-cuadrada 6.1219353675842285
+
+workclass y  sex Grado de libertad 5 Chi-cuadrada 5.728930950164795
+
+capital-gain y  native-country Grado de libertad 196 Chi-cuadrada 2.1596267223358154
+
+Datos de correlaciones numericos
+education-num y  hours-per-week Coeficiente de correlacion: 0.2399718314409256
+
+age y  capital-loss Coeficiente de correlacion: 0.17182347178459167
+
+education-num y  capital-loss Coeficiente de correlacion: 0.0784984603524208
+
+age y  capital-gain Coeficiente de correlacion: -0.06017212197184563
+
+capital-gain y  capital-loss Coeficiente de correlacion: -0.056334201246500015
+
+age y  hours-per-week Coeficiente de correlacion: -0.04331599548459053
+
+education-num y  capital-gain Coeficiente de correlacion: -0.03405279666185379
+
+capital-loss y  hours-per-week Coeficiente de correlacion: 0.021284673362970352
+
+capital-gain y  hours-per-week Coeficiente de correlacion: 0.019070053473114967
+
+age y  education-num Coeficiente de correlacion: 0.01705550216138363
+

@@ -1,0 +1,5 @@
+Outlook:Sunny|Overcast|Rainy
+Temp:Hot|Mild|Cool
+Humidity:High|Normal
+Windy:False|True
+Play:Yes|No

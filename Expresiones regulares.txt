@@ -1,0 +1,5 @@
+Outlook:Sunny|Overcast|Rainy
+Temp:([-]{0,1})([0-9]{1,})([.]{0,1})([0-9]{0,})
+Humidity:High|Normal
+Windy:False|True
+Play:Yes|No

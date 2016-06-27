@@ -1,0 +1,2 @@
+female|male
+fiction|non_fiction
